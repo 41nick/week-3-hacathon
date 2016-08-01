@@ -1,0 +1,27 @@
+#red{
+background-color: red;
+}
+#green{
+background-color: green;
+margin: 25px;
+}
+#blue{
+background-color: blue;
+margin: 25px;
+}
+#orange{
+background-color: orange;
+}
+#purple{
+background-color: purple;
+}
+#content{
+margin-top: 100px;
+}
+#toggleButton{
+color:red;
+background-color: blue;
+}
+.toggle{
+color: blue;
+}
